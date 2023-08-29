@@ -3,7 +3,7 @@ entries:
   ansible:
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2023-08-29T11:24:20.02801661+04:00"
+    created: "2023-08-29T11:40:39.020958402+04:00"
     description: Helm chart for ansible
     digest: 0b81f4908733d1b7257b44b3454abdf37e39c05722eec220faa0f01cf6d8ee6e
     name: ansible
@@ -11,4 +11,4 @@ entries:
     urls:
     - https://fchaudhr.github.io/ansible-helm-chart-try1/ansible-0.1.0.tgz
     version: 0.1.0
-generated: "2023-08-29T11:24:20.027040948+04:00"
+generated: "2023-08-29T11:40:39.020123096+04:00"
